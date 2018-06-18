@@ -1,7 +1,7 @@
 # PCA-Analysis-3D-plot
 
 Creating a PCA analysis of the Iris data set and then create an interactive 3D plot to display the result.
-
+PS - To get the plotly plot you need to run the notebook cell with your own credentials (reed Important Comment in the book).
 
 ## What is the point of PCA ( Primary Component Analysis ) ?
 
@@ -13,4 +13,4 @@ The interactive plot are being done with 2 different methods :
  - 1 - Matplotlib 
  - 2 - Plotly
  
- I will soon do a third way using the software Tableau and Python (TabPy)
+ I will soon do a third way using the software Tableau and Python (TabPy).
