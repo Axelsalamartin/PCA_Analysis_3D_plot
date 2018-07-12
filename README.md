@@ -1,4 +1,4 @@
-# PCA-Analysis-3D-plot
+# PCA Analysis
 
 Creating a PCA analysis of the Iris data set and then create an interactive 3D plot to display the result.
 PS - To get the plotly plot you need to run the notebook cell with your own credentials (reed Important Comment in the book).
